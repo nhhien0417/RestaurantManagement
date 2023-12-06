@@ -1,0 +1,54 @@
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.csproj.AssemblyReference.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.frmLogin.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\Restaurant Management App.exe.config
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\Restaurant Management App.exe
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\Restaurant Management App.pdb
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.csproj.CopyComplete
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.exe
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant Management App.pdb
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.frmMain.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.frmHome.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.SampleView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\Guna.UI.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmCategoryAdd.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.SampleAdd.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.CategoryView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.TableView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmTableAdd.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.StaffView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmStaffAdd.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.ProductView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmProductAdd.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmOrder.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.Product.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmTableSelect.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmWaiterSelect.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.KitchenView.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmBillList.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmCheckOut.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmAddCustomer.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\stdole.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.frmPrint.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Reports.frmRP.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmChangePW.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.Model.frmChangeUser.resources
+C:\Users\Admin\OneDrive\Documents\Tài liệu\IT\LTTQ\Restaurant Management App\Restaurant Management App\obj\Debug\Restaurant_Management_App.View.Setting.resources
